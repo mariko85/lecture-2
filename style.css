@@ -1,0 +1,26 @@
+.section-img img{
+   width: 80vw;
+   height: 40vw;
+   border-radius: 5%;
+   display: flex;
+   margin: 0 auto;
+  
+}
+
+
+body{
+    font-size: 24px;
+}
+
+.Instructions, .Ingredients , .text-section{
+    width: 80vw;
+    margin: 0 auto;
+}
+
+h2{
+    color: brown;
+}
+
+.Ingredients ul{
+list-style-type:circle
+}
